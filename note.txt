@@ -1,0 +1,27 @@
+color
+
+bg-color :   #F0FFF0
+green--- #21B573
+black--- #000000
+white
+red-#FD511A hover
+
+font-family
+poppins
+400, 500, 700
+
+roboto 400
+
+banner--
+xxl-xl-lg     md    sm/col
+
+padding
+35/65        10/60   
+h1   xxl xl-48 l-40  md-35
+48px
+
+feature
+
+xxl-xl-lg     md    sm/col
+pb-100        80    60
+sf-mt-40
